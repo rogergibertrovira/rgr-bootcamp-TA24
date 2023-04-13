@@ -1,2 +1,2 @@
 # rgr-bootcamp-TA24
-SPRING REST
+Spring REST (Web + H2 + JPA)
